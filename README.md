@@ -1,4 +1,4 @@
-Live demo: ig-clone-aashish.netlify.app/
+Live demo: https://ig-clone-aashish.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
